@@ -309,7 +309,7 @@ FACEBOOK: https://www.facebook.com/themefisher
 					<div class="col-md-4">
 						<div class="product-item">
 							<div class="product-thumb">
-								<img class="img-responsive" style="width=200px height=150px;"
+								<img class="img-responsive" style="width:200px; height:150px;"
 									src="<?php echo base_url().'/assets/gambar/'.$obt->gambar ?>" alt="product-img">
 								<div class="preview-meta">
 									<ul>
